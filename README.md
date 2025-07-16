@@ -1,6 +1,6 @@
 # project-showcase
-Summary of software and hardware engineering projects completed at UGA and independently.
 Project Showcase – Navangana Jha
+Summary of software and hardware engineering projects completed at UGA and independently.
 
 Welcome! This is a public overview of some of my key engineering projects. Due to academic policy, source code is private, but I’ve included detailed descriptions, tools used, and my contributions.
 
